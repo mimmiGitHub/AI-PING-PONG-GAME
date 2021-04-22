@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float:right;
+    border:3px solid white;
+    color:white;
+}
+.heading h3{
+    display:inline;
+}
+#start ,#game_status{
+    font-size: 22px;
+}
